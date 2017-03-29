@@ -1,0 +1,17 @@
+*.class
+*.html
+
+# Package Files #
+*.war
+*.ear
+*.iml
+
+
+/build
+/flask
+/target
+/test-output
+/allure-report
+
+/.idea
+/.git
